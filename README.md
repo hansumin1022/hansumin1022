@@ -1,5 +1,3 @@
-# CV
+# Sumin Han
 
-![CV_1](https://github.com/hansumin1022/hansumin1022/assets/130205263/c8b07745-8c4f-49e7-bcee-49ee6960c2a9)
-![CV_2](https://github.com/hansumin1022/hansumin1022/assets/130205263/756c76ef-3999-4a00-9bbe-7a03af1ab858)
-
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000"/>  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFF"/> <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
