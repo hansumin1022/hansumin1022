@@ -3,12 +3,15 @@
 ### &#128366; Majoring Electronic Engineering & SEP Engineering in Myongji Univ.
 ### &#128366; Micro Degree of Industrial AI (Complete in TU KOREA)
 
-<p>
+
+<br>
+<br>
 
 ### &#128221; Field of Interest
 #### UAM , Moblilty , Smart Factory , Sustainable Development
 
-
+<br>
+<br>
 
 #### Computer Language
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000"/>  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/> 
