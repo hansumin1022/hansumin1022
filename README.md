@@ -9,3 +9,6 @@
 
 ### HW
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=000"/> <img src="https://img.shields.io/badge/JOAP Analysis-9C4121?style=for-the-badge&logoColor=000"/>
+
+### Majoring Electronic Engineering & SEP Engineering in Myongji Univ.
+### Micro Degree 
