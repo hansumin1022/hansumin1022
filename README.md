@@ -7,14 +7,13 @@
 <br>
 <br>
 
-
+### &#128221; Field of Interest
 #### UAM , Moblilty , Smart Factory , Sustainable Development
 
 <br>
 <br>
 
 ### &#128366; Skills
-
 #### Computer Language
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000"/>  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/> 
 
