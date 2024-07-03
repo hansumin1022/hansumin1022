@@ -1,8 +1,8 @@
 # Sumin Han
-
 #### &#127891; Majoring 'Electronic Engineering & SEP Engineering' in Myongji Univ.
 #### &#127891; Sub Majoring 'Business Management' By ACBS
 #### &#127891; Complete 'Micro Degree of Industrial AI' in TU KOREA
+
 <br>
 
 ### &#128221; Field of Interest
@@ -11,10 +11,15 @@
 
 ### &#128366; Skills
 #### Computer Language
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000"/>  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=000"/>  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFF"/> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
 
 #### SW
-<img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=000"/> <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=000"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=000"/> <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/>  <img src="https://img.shields.io/badge/Mobilgene-2E9AFE?style=for-the-badge&logo=hyundai&logoColor=000"/> <img src="https://img.shields.io/badge/GT_Works3-Green?style=for-the-badge&logo=mitsubishi&logoColor=000"/> <img src="https://img.shields.io/badge/GX_Works3-E60012?style=for-the-badge&logo=mitsubishi&logoColor=000"/> 
+<img src="https://img.shields.io/badge/excel-217346?style=flat-square&logo=microsoftexcel&logoColor=000"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion3&logoColor=white">  <img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=000"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=000"/> <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=flat-square&logo=github&logoColor=000"/>  <img src="https://img.shields.io/badge/Mobilgene-2E9AFE?style=flat-square&logo=hyundai&logoColor=000"/> <img src="https://img.shields.io/badge/GT_Works3-Green?style=flat-square&logo=mitsubishi&logoColor=000"/> <img src="https://img.shields.io/badge/GX_Works3-E60012?style=flat-square&logo=mitsubishi&logoColor=000"/> 
 
 #### NDI
-<img src="https://img.shields.io/badge/JOAP Analysis-9C4121?style=for-the-badge&logoColor=000"/> <img src="https://img.shields.io/badge/Eddy Current Testing-217346?style=for-the-badge&logoColor=000"/> <img src="https://img.shields.io/badge/Magnetic Particle Testing-002C5E?style=for-the-badge&logoColor=000"/>
+<img src="https://img.shields.io/badge/JOAP Analysis-9C4121?style=flat-square&logoColor=000"/> <img src="https://img.shields.io/badge/Eddy Current Testing-217346?style=flat-square&logo=000"/> <img src="https://img.shields.io/badge/Magnetic Particle Testing-002C5E?style=flat-square&logoColor=000"/>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansumin1022&theme=ambient_gradient&show_icons=true)
+
