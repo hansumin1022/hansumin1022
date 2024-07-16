@@ -14,8 +14,3 @@
 
 #### NDI
 <img src="https://img.shields.io/badge/JOAP Analysis-9C4121?style=flat-square&logoColor=000"/> <img src="https://img.shields.io/badge/Eddy Current Testing-217346?style=flat-square&logo=000"/> <img src="https://img.shields.io/badge/Magnetic Particle Testing-002C5E?style=flat-square&logoColor=000"/>
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansumin1022&theme=ambient_gradient&show_icons=true)
-
