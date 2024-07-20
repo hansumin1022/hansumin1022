@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="Image/Sumin Han001.png">
+  <img src="CV/Sumin Han001.jpg">
 </p>
 <p align="center">
-  <img src="Image/Sumin Han002.png">
+  <img src="CV/Sumin Han002.jpg">
 </p>
 <p align="center">
-  <img src="Image/Sumin Han003.png">
+  <img src="CV/Sumin Han003.jpg">
 </p>
