@@ -1,5 +1,6 @@
 # Sumin Han
 #### &#127891; Majoring 'Electronic Engineering & SEP Engineering' in Myongji Univ.
+#### &#127891; Sub Majoring 'Management Informatics' in Myongji Univ.
 #### &#127891; Sub Majoring 'Business Management' By ACBS
 #### &#127891; Complete 'Industrial AI Micro Degree' in TU KOREA
 
