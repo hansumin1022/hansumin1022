@@ -1,4 +1,4 @@
-# Sumin Han
+![VISION 2035](https://github.com/user-attachments/assets/a351f5ab-e2ba-4c36-bd96-bb91c614433b)# Sumin Han
 #### &#127891; Majoring (B.S.) 'Electronic Engineering & SEP Engineering' in Myongji Univ.
 #### &#127891; Sub Majoring 'Industrial Management' in Myongji Univ.
 #### &#127891; Majoring (A.D.) 'Business Management' By ACBS
@@ -15,3 +15,7 @@
 
 #### NDI
 <img src="https://img.shields.io/badge/JOAP Analysis-9C4121?style=flat-square&logoColor=000"/>
+
+![VISION 2035](https://github.com/user-attachments/assets/8248e652-38de-40b8-ac8a-7eb5448b44a8)
+
+
