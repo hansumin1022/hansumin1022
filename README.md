@@ -1,4 +1,4 @@
-![VISION 2035](https://github.com/user-attachments/assets/a351f5ab-e2ba-4c36-bd96-bb91c614433b)# Sumin Han
+# Sumin Han
 #### &#127891; Majoring (B.S.) 'Electronic Engineering & SEP Engineering' in Myongji Univ.
 #### &#127891; Sub Majoring 'Industrial Management' in Myongji Univ.
 #### &#127891; Majoring (A.D.) 'Business Management' By ACBS
