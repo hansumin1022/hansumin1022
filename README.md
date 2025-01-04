@@ -16,10 +16,6 @@
 #### NDI
 <img src="https://img.shields.io/badge/JOAP Analysis-9C4121?style=flat-square&logoColor=000"/>
 
----
-
-  ![VISION 2035](https://github.com/user-attachments/assets/7c2d708e-b101-429e-973f-059766ef491a)
-
 
 
 
